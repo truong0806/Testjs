@@ -6,4 +6,5 @@ if(isset($_POST('uname')) && isset('password')){
     $pass = $_POST['password'];
 }else{
     header("Location: index.php")
+    exit();
 }
