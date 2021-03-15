@@ -11,7 +11,7 @@
  <form action="Login.php" metho="post">
     <h2>Đăng nhập</h2>
         <label>Tên đăng nhập</label>
-        <input type="text" name= "uname" placeholder = "Username"><br>
+        
         
         <label>Mật khẩu</label>
         <input type="text" name= "password" placeholder = "Password"><br>
